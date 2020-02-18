@@ -1,6 +1,6 @@
 
-1. git clone https://github.com/tubleronchik/Flask.git
-2. cd Flask/my_flask_app/
+1. git clone https://github.com/tubleronchik/flask_new.git
+2. cd flask_new/my_flask_app/
 3. docker build -t <name&tag_your_image>  
 4. docker run -p 5000:5000 <name_of_your_image>
 5. http://0.0.0.0:5000
